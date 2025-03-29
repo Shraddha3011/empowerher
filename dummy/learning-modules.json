@@ -1,0 +1,29 @@
+{
+  "modules": [
+    {
+      "id": "basic-finance-101",
+      "title": {
+        "en": "Basic Financial Management",
+        "hi": "बुनियादी वित्तीय प्रबंधन",
+        "ta": "அடிப்படை நிதி மேலாண்மை"
+      },
+      "duration": 10,
+      "skillLevel": "beginner",
+      "category": "finance",
+      "prerequisites": [],
+      "offlineAvailable": true,
+      "content": [
+        {
+          "type": "video",
+          "data": {
+            "url": "/videos/finance-basics.mp4",
+            "transcript": {
+              "en": "Welcome to basic financial management...",
+              "hi": "बुनियादी वित्तीय प्रबंधन में आपका स्वागत है..."
+            }
+          }
+        }
+      ]
+    }
+  ]
+} 
